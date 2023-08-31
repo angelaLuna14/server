@@ -1,0 +1,1 @@
+sprites/antirush/percent.spr
