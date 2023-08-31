@@ -1,0 +1,4 @@
+52
+bulletproof_vest_lvl_1		640		surv/vector		176	96	44	44
+bulletproof_vest_lvl_2		640		surv/vector		176	96	44	44
+bulletproof_vest_lvl_3		640		surv/vector		176	96	44	44

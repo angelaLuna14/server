@@ -1,0 +1,2 @@
+52
+item_bulletproof_vest_lvl_1		640		640hud2		176	96	44	44
