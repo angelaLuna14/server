@@ -1,0 +1,25 @@
+﻿MAPS BY: Cubemath
+
+hlof.- Half life opposing force version.
+ENGLISH
+This is the half life campaign with weapons and oposing force npcs. with some new maps
+if you want to play alone or with friends you can download the campaign from moddb.com
+if you will use this on your server. give me credit just leaving the (mapname)_motd.txt
+
+-------------
+
+SPANISH
+es la campaña de half life con armas y npcs de oposing force. con algunos mapas nuevos
+si quieres jugar solo o con amigos puedes descargar la campaña desde moddb.com
+si vas a usar esto en tu servidor. dame credito dejando el (mapname)_motd.txt
+
+
+Credits:
+Cubemath
+Wootguy
+
+
+Original Mod
+https://www.moddb.com/mods/na49138
+
+OST LIST "ofhl_c02_a1_MOTD" and ofhl_c18_MOTD"
