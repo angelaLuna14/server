@@ -8,10 +8,16 @@
 "models/blkop_apache.mdl" "models/opfor/blkop_apache.mdl"
 "models/osprey.mdl" "models/opfor/osprey.mdl"
 
+"models/hlclassic/p_crowbar.mdl" "models/opfor/p_knife.mdl"
+"models/hlclassic/v_crowbar.mdl" "models/opfor/v_knife.mdl"
+"models/hlclassic/w_crowbar.mdl" "models/opfor/w_knife.mdl"
+
+"models/p_crowbar.mdl" "models/opfor/p_knife.mdl"
+"models/v_crowbar.mdl" "models/opfor/v_knife.mdl"
+"models/w_crowbar.mdl" "models/opfor/w_knife.mdl"
 "models/v_9mmar.mdl" "models/opfor/v_9mmar.mdl"
 "models/v_9mmhandgun.mdl" "models/opfor/v_9mmhandgun.mdl"
 "models/v_357.mdl" "models/opfor/v_357.mdl"
-"models/v_crowbar.mdl" "models/opfor/v_crowbar.mdl"
 "models/v_crossbow.mdl" "models/opfor/v_crossbow.mdl"
 "models/v_desert_eagle.mdl" "models/opfor/v_desert_eagle.mdl"
 "models/v_displacer.mdl" "models/opfor/v_displacer.mdl"
@@ -32,7 +38,6 @@
 "models/v_squeak.mdl" "models/opfor/v_squeak.mdl"
 "models/v_tripmine.mdl" "models/opfor/v_tripmine.mdl"
 "models/v_uzi.mdl" "models/opfor/v_uzi.mdl"
-
+"models/w_shock.mdl" "models/opfor/w_shock.mdl"
+"models/w_shock_rifle.mdl" "models/opfor/w_shock_rifle.mdl"
 "models/w_suit.mdl" "models/suit2.mdl"
-
-"models/hlclassic/v_crowbar.mdl" "models/opfor/v_crowbar.mdl"
