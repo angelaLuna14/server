@@ -1,0 +1,30 @@
+===================== Afrika Korps 3 ==========================
+
+
+Ubicación: Tobruk, North Afrika
+
+
+Hola teniente
+
+Debes destruir el cañón antitanque del eje ubicado en el desierto de Tobruk de inmediato. Perdimos muchos tanques y necesitamos a su equipo lo antes posible para hacer el trabajo.
+
+
+Dwight D. Eisenhower
+Ejército General de los EE. UU.,
+Dominante.
+
+
+
+Objetivo:
+
+-Destruye el cañón antitanque del eje con explosiones.
+
+
+============================================================
+Author: MysticMDT, Sic
+
+
+Changes for Sven Co-op 4.6 by AdamR:
+
+* Added a RPG ammo and 7.62mm ammo to the battlefield
+* Enemy solders now appear 50% more often if 8+ players are present, 100% more often if 16+ are present

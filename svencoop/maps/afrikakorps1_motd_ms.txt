@@ -1,0 +1,34 @@
+
+===================== Afrika Korps 1 ===================
+
+Ubicación: North Afrika
+
+Hola teniente
+
+El afrika korps de Rommel se ha apoderado de una ciudad en el norte de África. La misión de su equipo es robar los documentos de guerra y cualquier otro documento secreto en el área. También tienes que localizar y destruir el radar sensible y el equipo de comunicación antes de que puedan transmitir los documentos secretos de la guerra. El afrika korps ha establecido puntos de defensa con mg42 que tendrás que desactivar. Si ves un tanque alemán, destrúyelo con una bazuca en el área. Una vez que tenga los documentos de guerra, salga de la ciudad por el oeste.
+
+
+
+Dwight D. Eisenhower
+Ejército General de los EE. UU.,
+Dominante.
+
+Objetivos:
+
+-Deshabilitar todos los ejes mg42
+-Destruye cualquier tanque alemán activo en el área.
+-Localizar y robar cualquier documento secreto
+-Destruye todo el equipo de comunicación.
+-Localizar y destruir el radar del eje
+-Robar los documentos de guerra
+- Dirígete hacia el oeste para la extracción.
+
+
+============================================================
+Author: MysticMDT, SiC
+
+
+Changes for Sven Co-op 4.6 by AdamR:
+
+* Added advanced spawn points just after the first tank
+  A checkpoint message will appear when it is reached
